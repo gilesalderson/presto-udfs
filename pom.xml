@@ -115,7 +115,7 @@
     <artifactId>udfs</artifactId>
     <version>3.0.1</version>
     <name>PrestoUDFs</name>
-    <url>https://github.com/qubole/presto-udfs</url>
+    <url>https://github.com/gilesalderson/presto-udfs</url>
     <description>Common Functions for the Facebook Presto SQL Engine</description>
 
     <scm>
